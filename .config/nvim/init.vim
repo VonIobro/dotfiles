@@ -204,6 +204,7 @@ noremap <C-w><Bslash> <C-w><Bar>
 " gruvbox 
 " let g:gruvbox_italic=1 " load before colorscheme
 
+" seoul256
 colorscheme seoul256
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1	" true color support
 
@@ -248,7 +249,6 @@ Plug 'junegunn/vim-easy-align'
 
 " VISUALS
 " ====================
-Plug 'rafi/awesome-vim-colorschemes'
 Plug 'machakann/vim-highlightedyank' " very nice
 let g:highlightedyank_highlight_duration = 3000
 
